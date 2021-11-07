@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5b5eefff-aecd-451a-a13c-09a4bad129b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../section" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="SvnConfiguration">
@@ -53,7 +55,8 @@
       <workItem from="1635896510952" duration="9000" />
       <workItem from="1635951199514" duration="8684000" />
       <workItem from="1635977258565" duration="24411000" />
-      <workItem from="1636217312503" duration="4372000" />
+      <workItem from="1636217312503" duration="5807000" />
+      <workItem from="1636242840086" duration="742000" />
     </task>
     <servers />
   </component>
